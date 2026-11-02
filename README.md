@@ -4,6 +4,9 @@ A repository that serves as my lab for exploring the Fortran language
 
 ## References
 
+- https://en.wikipedia.org/wiki/Fortran
+
+
 - https://fortran-lang.org/
   + https://fortran-lang.org/learn/
   + https://dev.lfortran.org/
@@ -24,9 +27,24 @@ A repository that serves as my lab for exploring the Fortran language
 
 ## Historical 
 
+- Creator of Fortran: John Warner Backus (1924-2007) 
+  + https://en.wikipedia.org/wiki/John_Backus
+    * "_He led the team that invented and implemented FORTRAN, the first widely used high-level programming language, and was the inventor of the Backus–Naur form (BNF), a widely used notation to define syntaxes of formal languages. He also contributed to the design of ALGOL, and later researched the function-level programming paradigm, presenting his findings in his influential 1977 Turing Award lecture "Can Programming Be Liberated from the von Neumann Style?"_"
+  + Papers:
+    * https://findingaids.loc.gov/repositories/19/resources/2739
+
+
+
 - First Fortran Manual
   + 1956-10-15: Programmer's Reference Manual (IBM 704)
   + https://archive.computerhistory.org/resources/text/Fortran/102649787.05.01.acc.pdf
+
+
+
+## Suggested Learning Resources 
+
+- https://en.wikibooks.org/wiki/Fortran
+
 
 
 
