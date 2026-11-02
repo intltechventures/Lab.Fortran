@@ -1,6 +1,14 @@
 # Lab.Fortran
 A repository that serves as my lab for exploring the Fortran language 
 
+## Standards
+
+- JTC1/SC22/WG5
+  + https://wg5-fortran.org/
+    * https://wg5-fortran.org/news.html
+    * https://wg5-fortran.org/documents.html
+
+
 
 ## References
 
@@ -71,6 +79,8 @@ A repository that serves as my lab for exploring the Fortran language
 
 
 ## Compilers
+
+- https://en.wikipedia.org/wiki/List_of_compilers#Fortran_compilers
 
 - https://fortran-lang.org/compilers/
 
