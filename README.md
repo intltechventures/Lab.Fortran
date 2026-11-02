@@ -43,6 +43,11 @@ A repository that serves as my lab for exploring the Fortran language
 
 
 
+- History of FORTRAN and FORTRAN II
+  + https://softwarepreservation.computerhistory.org/FORTRAN/
+
+
+
 - First Fortran Manual
   + 1956-10-15: Programmer's Reference Manual (IBM 704)
   + https://archive.computerhistory.org/resources/text/Fortran/102649787.05.01.acc.pdf
@@ -91,8 +96,7 @@ A repository that serves as my lab for exploring the Fortran language
 - https://gcc.gnu.org/fortran/
   + "_Gfortran is the name of the GNU Fortran project, developing a free Fortran 95/2003/2008/2018 compiler for GCC, the GNU Compiler Collection. The gfortran development effort uses an open development environment in order to attract a larger team of developers and to ensure that gfortran can work on multiple architectures and diverse environments._"
   + https://gcc.gnu.org/wiki/GFortran
-  + http://packages.ubuntu.com/trusty/gfortran
-
+  + https://gcc.gnu.org/wiki/GFortranStandards
 
 
 
